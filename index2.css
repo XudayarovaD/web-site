@@ -1,0 +1,175 @@
+body{
+  font-family: Arial, sans-serif;
+  background: #101326;
+  color: white;  
+}
+.header{
+    padding: 25px;
+    }
+.birinchi{
+    padding: 70px 20px;
+    text-align: center;
+
+}
+.birinchi p{
+    margin: 20px;
+}
+.birinchi h1{
+    margin: 35px;
+    font-size: 65px;
+
+}
+.birinchi h4{
+    margin-bottom: 25px;
+}
+button{
+    margin: 15px 5px;
+    padding: 15px 25px;
+    border: 1px solid grey;
+    border-radius: 25px;
+    cursor: pointer;
+}
+.ikkinchi{
+    padding: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 50px;
+}
+.ikkinchi > div{
+    width: 50%;
+}
+.ikkinchi h1{
+    margin: 25px;
+    font-size: 60px;
+}
+.quti{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.quti div{
+    padding: 25px;
+    border: 1px solid grey;
+    border-radius: 25px;
+    background-color: rgb(53, 53, 74);
+}
+.quti h3{
+    margin-bottom: 12px;
+}
+.uchinchi{
+    padding: 70px;
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+.uchinchi div{
+    width: 50%;
+    
+}
+.uchinchi h1{
+    font-size: 60px;
+    margin: 25px;
+}
+.quti2{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+    margin: 25px;
+}
+.quti2 div{
+    padding: 18px;
+    background-color:  rgb(53, 53, 74);
+    border-radius: 20px;
+}
+.grafik{
+    
+    margin: 20px;
+    border-radius: 20px;
+    border: 1px solid grey;
+    padding: 20px;
+}
+.statika{
+    display: flex;
+    justify-content: space-evenly;
+}
+.statika div{
+    text-align: center;
+    padding: 12px;
+    background-color:  rgb(53, 53, 74) ;
+    border-radius: 10px;
+    margin: 12px;
+}
+
+
+
+.tortinchi h1{
+    font-size: 60px;
+    margin: 25px;
+}
+.tortinchi p{
+    margin-bottom: 20px;
+}
+.quti3{
+    display: flex;
+    gap: 20px;
+    margin-top: 80px;
+}
+.quti3 div{
+    flex: 1;
+    padding: 20px;
+    border: 1px solid gray;
+    border-radius: 15px;
+    background-color: rgb(53, 53, 74);
+}
+.quti3 h4{
+    margin-bottom: 25px;
+}
+.quti3 h3{
+    margin-bottom: 15px;
+}
+.quti3 p{
+    font-size: 13px;
+    margin-bottom: 12px;
+}
+.jadval h1{
+    font-size: 60px;
+    margin: 25px;
+}
+.jadval p{
+    margin-bottom: 20px;
+}
+table{
+    border: 1px solid grey;
+    margin: 20px;
+    width: 100%;
+   
+    border-collapse: collapse;
+    border-radius: 10px;
+    background-color:  rgb(53, 53, 74);
+}
+th,td{
+    padding: 20px 15px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+tr{
+    border-bottom: 1px solid grey;
+}
+
+.jadval h5{
+    text-align: center;
+}
+.green{
+color: green;
+}
+.grey{
+color: grey;
+}
+.orange{
+color: rgb(250, 163, 58);
+}
+
+
+
